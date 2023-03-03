@@ -64,5 +64,5 @@ variable "vm_osProfile_adminUsername" {
 }
 
 variable "vm_osProfile_adminPassword" {
-    default = "Password1234$
+    default = "Password1234$"
 }
